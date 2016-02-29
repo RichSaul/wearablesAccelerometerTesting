@@ -22,6 +22,6 @@ The intermediate-StepFourDataSet.csv file is the data at the state it needs to b
 
 The final-IndependentDataSet.txt file is the final, summarized version of the data that has a mean() for every mean() and std() variable reported in the original UCI HAR data set.  There is one row for each combination of subject and activity.
 
-CodeBook.md describes the variables in the final-IndependentDataSet.txt and intermediate-StepFourDataSet.csv files. 
+CodeBook.md describes the variables in the final-IndependentDataSet.txt.
 
 README.md is this file.
