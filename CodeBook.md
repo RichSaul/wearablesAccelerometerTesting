@@ -1,7 +1,7 @@
 #Wearables Accelerometer Testing
 ##CodeBook
 
-This file explains the variables in the final data sets uploaded to the repository:
+This file explains the variables in the final data set uploaded to the repository:
 
     - final-IndependentDataSet.txt
     
@@ -220,129 +220,129 @@ The final-IndependentDataSet.txt file contains 68 columns and 180 rows of data, 
     Column: mean_fBodyAcc_Mean_X
         Type: numeric
         Unit of Measure: g (standard gravity unit)
-        Description: Average of 
+        Description: Average of mean readings for body acceleration on the X axis in the frequency domain. 
         
     Column: mean_fBodyAcc_Mean_Y
         Type: numeric
         Unit of Measure: g (standard gravity unit)
-        Description:
+        Description: Average of mean readings for body acceleration on the Y axis in the frequency domain.
         
     Column: mean_fBodyAcc_Mean_Z
         Type: numeric
         Unit of Measure: g (standard gravity unit)
-        Description:
+        Description: Average of mean readings for body acceleration on the Z axis in the frequency domain.
         
     Column: mean_fBodyAcc_STD_X
         Type: numeric
         Unit of Measure: g (standard gravity unit)
-        Description:
+        Description: Average of STD for readings of body acceleration on the X axis in the frequency domain.
         
     Column: mean_fBodyAcc_STD_Y
         Type: numeric
         Unit of Measure: g (standard gravity unit)
-        Description:
+        Description: Average of STD for readings of body acceleration on the Y axis in the frequency domain.
         
     Column: mean_fBodyAcc_STD_Z
         Type: numeric
         Unit of Measure: g (standard gravity unit)
-        Description:
+        Description: Average of STD for readings of body acceleration on the Z axis in the frequency domain.
         
     Column: mean_fBodyAccJerk_Mean_X
         Type: numeric
         Unit of Measure: g (standard gravity unit)
-        Description:
+        Description: Average of mean readings of jerk in body acceleration on the X axis in the frequency domain.
         
     Column: mean_fBodyAccJerk_Mean_Y
         Type: numeric
         Unit of Measure: g (standard gravity unit)
-        Description:
+        Description: Average of mean readings of jerk in body acceleration on the Y axis in the frequency domain.
         
     Column: mean_fBodyAccJerk_Mean_Z
         Type: numeric
         Unit of Measure: g (standard gravity unit)
-        Description:
+        Description: Average of mean readings of jerk in body acceleration on the Z axis in the frequency domain.
         
     Column: mean_fBodyAccJerk_STD_X
         Type: numeric
         Unit of Measure: g (standard gravity unit)
-        Description:
+        Description: Average of STD for readings of jerk in body acceleration on the X axis in the frequency domain.
         
     Column: mean_fBodyAccJerk_STD_Y
         Type: numeric
         Unit of Measure: g (standard gravity unit)
-        Description:
+        Description: Average of STD for readings of jerk in body acceleration on the Y axis in the frequency domain.
         
     Column: mean_fBodyAccJerk_STD_Z
         Type: numeric
         Unit of Measure: g (standard gravity unit)
-        Description:
+        Description: Average of STD for readings of jerk in body acceleration on the Z axis in the frequency domain.
         
     Column: mean_fBodyGyro_Mean_X
         Type: numeric
         Unit of Measure: radians / second
-        Description:
+        Description: Average of mean readings for body rotation on the X axis in the frequency domain.
         
     Column: mean_fBodyGyro_Mean_Y
         Type: numeric
         Unit of Measure: radians / second
-        Description:
+        Description: Average of mean readings for body rotation on the Y axis in the frequency domain.
         
     Column: mean_fBodyGyro_Mean_Z
         Type: numeric
         Unit of Measure: radians / second
-        Description:
+        Description: Average of mean readings for body rotation on the Z axis in the frequency domain.
         
     Column: mean_fBodyGyro_STD_X
         Type: numeric
         Unit of Measure: radians / second
-        Description:
+        Description: Average of STD for readings of body rotation on the X axis in the frequency domain.
         
     Column: mean_fBodyGyro_STD_Y
         Type: numeric
         Unit of Measure: radians / second
-        Description:
+        Description: Average of STD for readings of body rotation on the Y axis in the frequency domain.
         
     Column: mean_fBodyGyro_STD_Z
         Type: numeric
         Unit of Measure: radians / second
-        Description:
+        Description: Average of STD for readings of body rotation on the Z axis in the frequency domain.
         
     Column: mean_fBodyAccMag_Mean
         Type: numeric
         Unit of Measure: g (standard gravity unit)
-        Description:
+        Description: Average of mean magnitudes of body acceleration in the frequency domain.
         
     Column: mean_fBodyAccMag_STD
         Type: numeric
         Unit of Measure: g (standard gravity unit)
-        Description:
+        Description: Average of STD readings for magnitude of body acceleration in the frequency domain.
         
     Column: mean_fBodyBodyAccJerkMag_Mean
         Type: numeric
         Unit of Measure: g (standard gravity unit)
-        Description:
+        Description: Average of mean magnitudes of body acceleration jerk in the frequency domain.
         
     Column: mean_fBodyBodyAccJerkMag_STD
         Type: numeric
         Unit of Measure: g (standard gravity unit)
-        Description:
+        Description: Average of STD readings for magnitude of body acceleration jerk in the frequency domain.
         
     Column: mean_fBodyBodyGyroMag_Mean
         Type: numeric
         Unit of Measure: radians / second
-        Description:
+        Description: Average of mean magnitudes of body rotation in the frequency domain.
         
     Column: mean_fBodyBodyGyroMag_STD
         Type: numeric
         Unit of Measure: radians / second
-        Description:
+        Description: Average of STD readings for magnitude of body rotation in the frequency domain.
         
     Column: mean_fBodyBodyGyroJerkMag_Mean
         Type: numeric
         Unit of Measure: radians / second
-        Description:
+        Description: Average of mean magnitudes of jerking body rotation in the frequency domain.
         
     Column: mean_fBodyBodyGyroJerkMag_STD
         Type: numeric
         Unit of Measure: radians / second
-        Description:
+        Description:  Average of STD readings for magnitude of jerking body rotation in the frequency domain.
